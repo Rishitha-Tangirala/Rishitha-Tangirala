@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 🎓 Final-year Mathematics student at **NIT Warangal**  
 🤖 Passionate about **AI, Machine Learning & Data Science**  
 🧠 Exploring the intersection of **mathematics** and **intelligent systems**  
-📊 Currently working on projects in **time series forecasting**, **NLP**, and **model deployment**  
 🔍 Always learning, building, and seeking impactful applications of AI in the real world
 
 ---
